@@ -58,7 +58,9 @@ venv\Scripts\activate
 
 ### 3. Install dependencies
 
-Install the packages required by the project. See the project setup instructions for the exact dependency list.
+```bash
+pip install -r requirements.txt
+```
 
 ### 4. Configure your API key
 
